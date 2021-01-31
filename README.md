@@ -1,5 +1,5 @@
 # base-app
 
-Base APP for react native include :
+Base APP react native include :
 
 1. Module Resolver
